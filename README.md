@@ -5,9 +5,9 @@ My name is Somnath Shirkule. I'm a Software Developer with 3+ years of experienc
 I have some exposure to MEAN stack as well.
 </p>
 <hr>
-<a align="center" href="https://github.com/somnathshirkule">
+<p align="center"><a href="https://github.com/somnathshirkule">
     <img src="https://komarev.com/ghpvc/?username=somnathshirkule&style=for-the-badge">
-</a>
+</a></p>
 <hr>
 <p align="center"> Here's some statistics of my github profile.</p>
 
