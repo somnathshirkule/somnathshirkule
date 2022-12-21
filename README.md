@@ -2,7 +2,7 @@
 
 My name is Somnath Shirkule. I'm a Software Developer with 3+ years of experience. Having hands-on experience with Spring Boot and Angular.
 
-I have some exposure to MEAN stack as well. Here's my updated <a href="https://drive.google.com/file/d/1rYbiiL3sREGHgQZgbFVQTCu9qcCDO29a/view?usp=sharing">Resume</a>
+I have some exposure to MEAN stack as well. Here's my updated <a href="https://drive.google.com/file/d/1rYbiiL3sREGHgQZgbFVQTCu9qcCDO29a/view?usp=sharing">Resume</a>.
 </p>
 <hr>
 <p align="center"><a href="https://github.com/somnathshirkule">
